@@ -3,6 +3,7 @@ import os
 
 # Path to collect data from the Resources folder
 #budget_data_csv = os.path.join('Resources', 'budget_data.csv')
+#couldn't get standard join to work
 budget_data_csv="/Users/Matt/Desktop/Data Analytics/python-challenge/PyBank/Resources/budget_data.csv"
 
 # Read in the CSV file
