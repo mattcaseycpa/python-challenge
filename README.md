@@ -33,6 +33,12 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 ## Usage
 
+CD to the directory where the script is located.
+`/PyBank`
+Run the script from the command line using the following command: 
+```
+python main.py
+```
 
 # PyPoll
 <img src="./Resources/Vote_counting.png" alt="Polling Station Image">
@@ -64,4 +70,34 @@ Winner: Diana DeGette
 ```
 ## Usage
 
+CD to the directory where the script is located.
+`/PyPoll`
+Run the script from the command line using the following command: 
+```
+python main.py
+```
+
 # Getting Started
+## Prerequisites
+- Python 3
+- Git Bash (Windows) / Terminal (macOS)
+- Visual Studio Code (or any other code editor)
+- Git (for version control)
+
+## Running the programs
+1. Clone the repository to your local machine.
+2. Follow Usage instructions for each program.
+
+## Making Changes
+1. Program is saved on GitHub.
+2. Clone the repository to your local machine.
+3. Make changes to the code.
+4. Add and commit changes to GitHub.
+```
+git add .
+git commit -m "commit message"
+```
+5. Push changes to GitHub.
+```
+git push
+```
